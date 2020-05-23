@@ -1,4 +1,4 @@
-secrets.py
 venv
 .vscode
+.idea/
 __pycache__
